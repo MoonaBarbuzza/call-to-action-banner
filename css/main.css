@@ -25,7 +25,7 @@ html {
   overflow: hidden;
   top: 10%;
   left: 10%;
-  padding: 1em;
+  padding: 0 1em;
   width: 100%;
   max-width: 45rem;
 }
@@ -33,16 +33,22 @@ html {
 .bannerleft {
  float: left;
  width: 33%;
+ padding:
 
 }
 
 .bannerright {
   float: right;
-  width: 66%;
+  width: 60%;
+}
+
+.title {
+  margin: 0;
 }
 
 h2 {
   font-size: 3rem;
+  margin:
 }
 
 p {
