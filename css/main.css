@@ -1,0 +1,22 @@
+html {
+	box-sizing: border-box;
+
+  /*Get Roboto*/
+  font: normal 100%/1.5 "Roboto", sans-serif;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+.img-flex {
+  width: 100%;
+}
+
+.actionbanner {
+  position: relative;
+}
+
+.bannercontent {
+  position: absolute;
+}
